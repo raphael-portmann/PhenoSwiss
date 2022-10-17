@@ -1,0 +1,12 @@
+Version: 1.0
+AgroManagement:
+- 2020-09-01:
+    CropCalendar:
+        crop_name: wheat
+        variety_name: Winter_wheat_104
+        crop_start_date: 2020-10-01
+        crop_start_type: sowing
+        crop_end_type: maturity
+        max_duration: 330
+    TimedEvents: null
+    StateEvents: null
