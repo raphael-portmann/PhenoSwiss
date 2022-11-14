@@ -7,6 +7,6 @@ AgroManagement:
         crop_start_date: 2000-10-15
         crop_start_type: sowing
         crop_end_type: maturity
-        max_duration: 330
+        max_duration: 365
     TimedEvents: null
     StateEvents: null
