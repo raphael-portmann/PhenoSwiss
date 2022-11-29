@@ -1,12 +1,12 @@
 Version: 1.0
 AgroManagement:
-- 2000-10-01:
+- 2000-10-31:
     CropCalendar:
-        crop_name: wheat
+        crop_name: 'wheat'
         variety_name: Winter_wheat_105
         crop_start_date: 2000-10-15
         crop_start_type: sowing
         crop_end_type: maturity
-        max_duration: 365
+        max_duration: 330
     TimedEvents: null
     StateEvents: null
