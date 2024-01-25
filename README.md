@@ -5,4 +5,4 @@ This project calibrates the WOFOST phenology model (Wofost72_Phenology) to simul
 
 Any further developments of this project happen in [this repository](https://github.com/raphael-portmann/winter_wheat_phenology) which is a further development of PhenoSwiss and the winter wheat phenology study of Lukas Graf, which can be found  [here](https://github.com/EOA-team/winter_wheat_phenology)
 
-\*\*Author\*\*: Raphael Portmann, raphael.portmann@agroscope.admin.ch,  raphael.portmann@alumni.ethz.ch
+**Author**: Raphael Portmann, raphael.portmann@agroscope.admin.ch,  raphael.portmann@alumni.ethz.ch
